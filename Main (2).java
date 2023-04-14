@@ -59,7 +59,7 @@ public class Main {
                       break;
         default:
             System.out.println("\uD83D\uDE15");
-            System.out.println("Unrecognized response, please try again.");
+            System.out.println("That doesn't work in this situation, sorry....");
       }
     }
     System.out.println("\u2620");
